@@ -210,6 +210,11 @@ h2 {
     padding-top: .1em;
 }
 
+.cta-link {
+    text-decoration:none;
+    color: inherit;
+}
+
 .chat-now-text:hover {
     cursor: pointer;
     color: var(--button-color2);
